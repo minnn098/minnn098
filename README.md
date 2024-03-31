@@ -1,6 +1,6 @@
 <h1>Hey👋 It's Ractor</h1>
 
-<br>\
+<br>
 - 😄 I'm a student who is interesting in computer science
 - ⚡ Fun fact: I'm interest cybersecurity and abit about AI which more dynamic than a fix programmng can do, yet I'm still beginner
 - 🌱 I’m currently learning django
