@@ -1,6 +1,9 @@
-- 👋 Hi, I’m a student who is exploring the edge of programming
-- ⚡ Fun fact: I'm interest cybersecurity and abit about AI which more dynamic than a fix programmng can do, yet I'm still beginner
+<h1>Hey👋 It's Ractor</h1>
 
+<br>\
+- 😄 I'm currently a student
+- ⚡ Fun fact: I'm interest cybersecurity and abit about AI which more dynamic than a fix programmng can do, yet I'm still beginner
+- 🌱 I’m currently learning django
 <!---
 minnn098/minnn098 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -11,4 +14,10 @@ You can click the Preview link to take a look at your changes.
 - 😄 Pronouns: ...
 --->
 <h1>Lanuange and skill</h1>
-<img src="py.png" alt="python" width="100">
+<div display="table">
+  <img src="py.png" alt="python" width="60">
+  <img src="django-logo.webp" alt="django" width="40" padding-left=30px>
+  <img src="HTML5_logo_and_wordmark.svg" alt="HTML" width="70" padding-left=30px>
+  <img src="css-logo.webp" alt="CSS" width="50" padding-left=30px>
+  
+</div>
