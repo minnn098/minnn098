@@ -2,7 +2,7 @@
 
 <br>
 - 😄 I'm a student who is interesting in computer science<br>
-- ⚡ Fun fact: I'm interest cybersecurity and abit about AI which more dynamic than a fix programmng can do, yet I'm still beginner<br>
+- ⚡ Fun fact:Have passion yet, I'm still beginner<br>
 - 🌱 I’m currently learning django
 <!---
 minnn098/minnn098 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 --->
-<h1>Lanuange and skill</h1>
+<h1>language and skill</h1>
 <div display="table">
   <img src="py.png" alt="python" width="60">
   <img src="django-logo.webp" alt="django" width="40" padding-left=30px>
