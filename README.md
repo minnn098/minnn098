@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 - 😄 Pronouns: ...
 --->
 <h1>Lanuange and skill</h1>
-<img src="pyth0nlogo.jpg" alt="python">
+<img src="py.png" alt="python" width="100">
