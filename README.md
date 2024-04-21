@@ -1,8 +1,7 @@
 <h1>Hey👋 It's Ractor</h1>
 
 <br>
-- 😄 I'm a student who is interesting in computer science<br>
-- ⚡ Fun fact:Have passion yet, I'm still beginner<br>
+- 😄 nothing here YET <br> 
 - 🌱 I’m currently learning django
 <!---
 minnn098/minnn098 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
